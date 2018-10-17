@@ -1,2 +1,2 @@
 # Python_Compiler
-A compiler build from scratch in Python
+A compiler built from scratch in Python
